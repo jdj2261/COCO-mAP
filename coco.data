@@ -1,0 +1,6 @@
+classes= 8
+train=/home/djjin/Downloads/coco/val_output/test/train.txt
+valid=/home/djjin/Downloads/coco/val_output/test/valid.txt
+names=/home/djjin/Downloads/coco/coco.names
+backup=backup/
+
