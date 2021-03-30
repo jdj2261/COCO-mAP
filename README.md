@@ -17,7 +17,7 @@ COCO Dataset을 가지고 학습 시킨 후 mAP 계산해보기
 - [coco dataset 다운로드](https://cocodataset.org/#download)
 - [블로그 참고](https://eehoeskrap.tistory.com/367)
 
-![image-20210322150737321](imgs/image-20210322150737321.png)
+![image-20210322150737321](images/image-20210322150737321.png)
 
 ## 2. Annotation 변환
 
@@ -270,7 +270,7 @@ COCO Dataset을 가지고 학습 시킨 후 mAP 계산해보기
 
 - 토핑별 AP 및 전체 mAP
 
-  ![image-20210325164546493](imgs/image-20210325164546493.png)
+  ![image-20210325164546493](images/image-20210325164546493.png)
 
 
 
